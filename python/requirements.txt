@@ -1,6 +1,9 @@
 ###### Python version (3.11.5)) ######
 ###### Requirements without Version Specifiers ######
+numpy
+matplotlib
+scipy
 ###### Requirements with Version Specifiers ######
-numpy == 1.29.0
-matplotlib == 3.8.0
-scipy == 1.11.2
+# numpy == 1.26.0
+# matplotlib == 3.8.0
+# scipy == 1.11.2
