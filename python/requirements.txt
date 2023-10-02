@@ -6,4 +6,4 @@ scipy
 ###### Requirements with Version Specifiers ######
 # numpy == 1.26.0
 # matplotlib == 3.8.0
-# scipy == 1.11.2
+# scipy == 1.11.3
