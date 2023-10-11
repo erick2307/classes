@@ -5,6 +5,7 @@ matplotlib
 scipy
 scikit-learn
 seaborn
+rasterio
 ###### Requirements with Version Specifiers ######
 # numpy == 1.26.0
 # matplotlib == 3.8.0
